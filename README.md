@@ -1,2 +1,2 @@
-# DSA_Project_SY
-Data Structures And Algorithms Project
+# DSA-Project
+File compression using huffman coding
