@@ -1,7 +1,5 @@
 # Huffman Encoding/Decoding Project
 
-![Huffman Encoding/Decoding]
-
 ## Overview
 This project implements a file compression and decompression utility using the Huffman encoding/decoding algorithm. Huffman coding is a widely used technique in data compression to achieve efficient encoding of data.
 
